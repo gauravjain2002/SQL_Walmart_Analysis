@@ -170,6 +170,6 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
-#   S Q L _ W a l m a r t _ A n a l y s i s 
+
  
  
